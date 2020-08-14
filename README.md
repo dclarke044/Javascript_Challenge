@@ -1,5 +1,5 @@
 # UFO Sightings
-### Javascript Homework Challenge for GA Tech Data Analytics Bootcamp
+### JavaScript Homework Challenge for GA Tech Data Analytics Bootcamp
 
 Our Data Analytics team was contracted by Aliens-R-Real to create a website that will enable their volunteers to view and search through their database of UFO sights by date/time. It was also requested that the website will update as the data set expands with additional sightings.
 

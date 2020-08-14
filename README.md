@@ -1,2 +1,3 @@
-# Javascript_Challenge
-Week 14 Homework of GA Tech Bootcamp
+# UFO Sightings
+### Javascript Homework Challenge for GA Tech Data Analytics Bootcamp
+
